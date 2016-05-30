@@ -6,7 +6,7 @@ bio: 'DNN workshop'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://menawang.github.io/fancy-blog/
+url: http://menawang.github.io/fancy-blog/ 
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
